@@ -1,0 +1,27 @@
+{
+  "create_order": [{
+    "desc": "创建订单",
+    "product_id": 2,
+    "count": 1,
+    "create_code": 200,
+    "create_length": 0,
+    "create_pass": true
+
+  }],
+  "query_order": [{
+    "desc": "查询订单",
+    "order_id": 103,
+    "order_no": "DC20487977468799",
+    "order_code": 200,
+    "order_price": "0.04"
+
+  }],
+  "user_order": [{
+    "desc": "用户订单列表",
+    "user_code": 200,
+    "user_page": 1,
+    "user_list": 0,
+    "user_keys": ["id", "order_no", "total_price"]
+
+  }]
+}

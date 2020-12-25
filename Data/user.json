@@ -1,0 +1,19 @@
+{
+  "token": [{
+    "desc": "获取用户token",
+    "token_code": 200,
+    "token_length": 0
+  }],
+  "verify": [{
+    "desc": "token验证",
+    "verify_code": 200,
+    "verify_isValid": true
+  }],
+  "address": [{
+    "desc": "用户地址",
+    "address_code": 200,
+    "address_name": "李白",
+    "address_mobile": "13012345678"
+
+  }]
+}

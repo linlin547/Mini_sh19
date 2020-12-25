@@ -1,0 +1,22 @@
+{
+  "banner": [{
+    "desc": "轮播图",
+    "banner_code": 200,
+    "banner_id": 1,
+    "banner_name": "首页置顶",
+    "banner_length": 0
+  }],
+  "theme": [{
+    "desc": "专题",
+    "theme_code": 200,
+    "theme_ids": ["id\":1", "id\":2", "id\":3"],
+    "theme_length_url": 0,
+    "theme_name": "专题栏位一"
+  }],
+  "new_product": [{
+    "desc": "新品",
+    "new_code": 200,
+    "new_length": 0,
+    "new_keys": ["id", "name", "price", "main_img_url"]
+  }]
+}
